@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+i am a self taught machine learning engineer hoping to get into data engineering and AI engineering
 <!--
 **nebyu08/nebyu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
