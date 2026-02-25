@@ -1,17 +1,16 @@
-### Hi there 👋
-i am a self taught machine learning engineer eager to get into  AI engineering and web dev
-<!--
-**nebyu08/nebyu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Nebiyu! 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I love training machine learning models
+- 🌐 Check out my website: [nebiyu.et](https://nebiyu.et)
+- 📊 Interested in data science and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Stats
+- 🔧 45+ public repositories
+- 👥 15 followers | 21 following
 
--->
+## Let's Connect
+*Add your social links here!*
+
+---
+*Generated with 💙*
